@@ -1,15 +1,3 @@
-<div align="center">
-
-# Oleg Vlaskin
-
-### DevOps Engineer · Minsk, Belarus
-
-[![Telegram](https://img.shields.io/badge/Telegram-@qnsi337-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/qnsi337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-qnsi337-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qnsi337)
-[![Email](https://img.shields.io/badge/Email-aleh.ulaskin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleh.ulaskin@gmail.com)
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
